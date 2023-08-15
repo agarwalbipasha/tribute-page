@@ -35,6 +35,7 @@ img {
 
 .middle p {
     color: #958771;
+    font-size: x-small;
     padding: 0 25px;
 }
 
@@ -76,5 +77,6 @@ ul {
     }
     .middle p {
         font-weight: 500;
+        font-size: large;
     }
 }
